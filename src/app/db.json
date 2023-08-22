@@ -1,0 +1,19 @@
+{
+  "todos" : [
+    {
+      "id" : 1,
+      "taskName" : "To eat",
+      "isFinished" : false
+    },
+    {
+      "id" : 2,
+      "taskName" : "To copy",
+      "isFinished" : false
+    },
+    {
+      "id" : 3,
+      "taskName" : "To run",
+      "isFinished" : false
+    }
+  ]
+}
